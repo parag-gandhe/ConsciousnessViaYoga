@@ -1,3 +1,5 @@
+A little attention to a body tells us that there is some or the other painful sensation. There are other sensations within body as well.
+
 Testing from other machine
 
 Let us go even deeper into this definition. Any sensation has two components. First component is the consciousness, which allows us to be aware of that sensation. The second component is an energy. Body is physical. It needs energy to move. Every sensation to work, there has to be some energy associated with it. Hence, Prana is defined as a form of energy. We know that we cannot create or destroy energy. We use it or convert it into other forms.
@@ -331,4 +333,8 @@ We begin where we are. We do not have experience of higher consciousness and we 
 
 Parag dash Gandhe 
 Navin Pustak in 2 hajar aathara
+git clone https://github.com/parag-gandhe/ConsciousnessViaYoga.git
 
+
+
+git config --global user.email "parag.gandhe@gmail.com"
