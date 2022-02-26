@@ -687,6 +687,6 @@ Navin Pustak in 2 hajar aathara
 git clone https://github.com/parag-gandhe/ConsciousnessViaYoga.git
 
 
-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
+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
 
 git config --global user.email "parag.gandhe@gmail.com"
